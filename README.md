@@ -1,0 +1,28 @@
+### Nemanja Pilipović 👋
+## I'm a .NET Developer !
+- 🔭 I’m currently on .NET Training
+- 🌱 I’m currently learning WPF and Unit Testing
+- 🥅 2020 Goals: Learn how Kubernates work 🤣
+- ⚡ I love football and playing League Of Legends
+- 🔎  Connect with me: <p>
+  <a href="https://www.linkedin.com/in/nemanja-pilipovic/">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  <a href="https://dev.to/trbuhozborac">
+    <img src="https://camo.githubusercontent.com/6bc5e62e0bf5e21ab8054b731540529bbc8e01b3/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" width="24px"/>
+  </a>
+  &emsp;
+    <a href= "https://www.instagram.com/trbuhozborac/">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+  </a>
+  &emsp;
+</p>
+
+<p>
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=trbuhozborac&title_color=333&text_color=777" alt="Julian's Stats" >
+  </a>
+</p>
+
+
+
