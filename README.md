@@ -20,8 +20,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=trbuhozborac&title_color=333&text_color=777" alt="Julian's Stats" >
+  <a href="https://github.com/Trbuhozborac" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=trbuhozborac&title_color=333&text_color=777" alt="Trbuhozborac Stats" >
   </a>
 </p>
 
