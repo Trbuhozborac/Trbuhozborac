@@ -1,9 +1,9 @@
 ### Nemanja Pilipović 👋
 ## I'm a .NET Developer !
-- 🔭 I’m currently on .NET Training
-- 🌱 I’m currently learning WPF and Unit Testing
+- 🔭 I’m software developer
+- 🌱 I’m currently learning WPF, nUnit and React
 - 🥅 2020 Goals: Learn how Kubernates work 🤣
-- ⚡ I love football and playing League Of Legends
+- ⚡ I love football and playing video games
 - 🔎  Connect with me: <p>
   <a href="https://www.linkedin.com/in/nemanja-pilipovic/">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
