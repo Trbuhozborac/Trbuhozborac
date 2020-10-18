@@ -1,6 +1,6 @@
 ### Nemanja Pilipović 👋
-## I'm a .NET Developer !
-- 🔭 I’m software developer
+## I'm a Software Developer !
+- 🔭 The programming language that i mostly use is C#
 - 🌱 I’m currently learning WPF, nUnit and React
 - 🥅 2020 Goals: Learn how Kubernates work 🤣
 - ⚡ I love football and playing video games
