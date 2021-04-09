@@ -1,8 +1,8 @@
 ### Nemanja Pilipović 👋
 ## I'm a Software Developer !
-- 🔭 The programming language that i mostly use is C#
-- 🌱 I’m currently learning WPF, nUnit and React
-- 🥅 2020 Goals: Learn how Kubernates work 🤣
+- 🔭 The programming languages that i mostly use are JS and C#
+- 🌱 I’m currently learning fullstack js development
+- 🥅 2021 Goals: Learn how Kubernates work 🤣
 - ⚡ I love football and playing video games
 - 🔎  Connect with me: <p>
   <a href="https://www.linkedin.com/in/nemanja-pilipovic/">
