@@ -1,10 +1,11 @@
 ### Nemanja Pilipović 👋
 ## I'm a Software Developer !
 - 🔭 The programming languages that i mostly use are JS and C#
-- 🌱 I’m currently learning fullstack js development
-- 🥅 2021 Goals: Learn how Kubernates work 🤣
-- ⚡ I love football and playing video games
-- 🔎  Connect with me: <p>
+- 🌱 I’m currently learning Nest.js js development
+- 🥅 2022 Goals: Learn Next.js 🤣
+- ⚡ I love playing football and playing video games
+- 🔎  Connect with me:
+ <p>
   <a href="https://www.linkedin.com/in/nemanja-pilipovic/">
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
